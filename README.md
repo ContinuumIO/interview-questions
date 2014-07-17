@@ -33,7 +33,7 @@ if you submit a pull request (against this repo) for the new questions.
 1. Tell us about a chunk of code that you've written before that you're
    particularly fond of.  What do you like about it?  (e.g. elegant,
    evil, clever, simple) (This is along the lines of the
-   'http://stilldrinking. org/programming-sucks -> All Code is bad'
+   'http://stilldrinking.org/programming-sucks -> All Code is bad'
    section.)
 
 1. Tell us about a past project that you were particularly proud/fond of
